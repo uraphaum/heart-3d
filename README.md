@@ -21,7 +21,7 @@ Clique e arraste para rotacionar o coração e vê-lo por todos os angulos.
 
 ---
 
-## Instalacao
+## Instalação
 
 Dentro da pasta do projeto, rode:
 
@@ -34,10 +34,10 @@ npm start
 
 ## Controles
 
-| Acao              | Resultado                        |
+| Ação              | Resultado                        |
 |-------------------|----------------------------------|
-| Clicar e arrastar | Rotaciona o coracao              |
-| Soltar o mouse    | Continua girando com inercia     |
+| Clicar e arrastar | Rotaciona o coração              |
+| Soltar o mouse    | Continua girando     |
 
 ---
 
