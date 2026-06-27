@@ -1,0 +1,14 @@
+{
+  "name": "heart3d",
+  "version": "1.0.0",
+  "description": "Um Coração que gira! <3",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "uraphaum",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^42.5.0"
+  }
+}
