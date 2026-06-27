@@ -7,7 +7,7 @@ Clique e arraste para rotacionar o coração e vê-lo por todos os angulos.
 
 ## Funcionalidades
 
-- Coracao 3D renderizado com equacões parametricas
+- Coração 3D renderizado com equacões parametricas
 - Rotação com o mouse e efeito de inercia ao soltar
 - Particulas flutuantes ao redor
 - Estetica rosa com iluminação dinamica
